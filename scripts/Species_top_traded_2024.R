@@ -84,7 +84,7 @@ dir.create("outputs/tables", showWarnings = FALSE, recursive = TRUE)
 dir.create("outputs/figures", showWarnings = FALSE, recursive = TRUE)
 
 utils::write.csv(species_totals,
-                 "C:/Users/Deepankar Mahabale/Documents/What Next/Projects/CITES Parrot Trade/2024/CITES-EU-Pscittacine-Trade-2024/outputs/tables/species_totals_importer_reported.csv",
+                 file.path("outputs", "tables", "species_totals_importer_reported.csv",
                  row.names = FALSE)
 
 # 7) Plot: visible in Plots pane AND saved to file --------------------------
@@ -104,8 +104,10 @@ p <- ggplot(top15, aes(x = reorder(Taxon, total_importer_qty),
 # Ensure the plot appears in the Plots pane in both interactive and scripted runs:
 print(p)
 
-ggsave("C:/Users/Deepankar Mahabale/Documents/What Next/Projects/CITES Parrot Trade/2024/CITES-EU-Pscittacine-Trade-2024/outputs/figures/top_species_importer_reported.png",
-       plot = p, width = 8, height = 6, dpi = 300)
+ggsave(
+  filename= file.path("outputs", "figures", "top_species_importer_reported.png"),
+  plot = p, width = 8, height = 6, dpi = 300
+)
 
 section("Done")
 cat("Saved table: outputs/tables/species_totals_importer_reported.csv\n")
