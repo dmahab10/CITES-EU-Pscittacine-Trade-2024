@@ -1,0 +1,157 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2024,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,DE,GT,,2,,specimens,Number of specimens,S,I
+2024,I,Amazona barbadensis,Aves,Psittaciformes,Psittacidae,Amazona,NL,CW,,1,,live,,P,O
+2024,I,Amazona finschi,Aves,Psittaciformes,Psittacidae,Amazona,FI,CA,,2,,live,Number of specimens,P,F
+2024,I,Amazona oratrix,Aves,Psittaciformes,Psittacidae,Amazona,DE,GT,,10,,specimens,Number of specimens,S,I
+2024,I,Anodorhynchus hyacinthinus,Aves,Psittaciformes,Psittacidae,Anodorhynchus,DE,CH,,1,,live,Number of specimens,P,C
+2024,I,Ara ambiguus,Aves,Psittaciformes,Psittacidae,Ara,DE,GT,,5,,specimens,Number of specimens,S,I
+2024,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,DE,GT,,50,,specimens,Number of specimens,S,I
+2024,I,Ara militaris,Aves,Psittaciformes,Psittacidae,Ara,DE,GT,,8,,specimens,Number of specimens,S,I
+2024,I,Cyanoramphus novaezelandiae,Aves,Psittaciformes,Psittacidae,Cyanoramphus,PL,UA,,1,,live,Number of specimens,P,C
+2024,I,Primolius maracana,Aves,Psittaciformes,Psittacidae,Primolius,DE,CH,,1,,live,Number of specimens,P,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,BE,MA,BE,,1,live,,P,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,CY,GB,,3,,live,Number of specimens,P,U
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,CY,RU,,1,,live,Number of specimens,P,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,DE,CH,NL,1,,live,Number of specimens,P,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,DE,CH,,2,,live,Number of specimens,P,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,DE,US,,2,,live,Number of specimens,P,F
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,DE,ZA,,1,,live,Number of specimens,P,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,DE,ZA,,2,,live,Number of specimens,P,D
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,DE,ZA,,1,,live,Number of specimens,P,F
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,GB,FI,DK,,1,live,Number of specimens,P,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,GB,FI,SE,,1,live,Number of specimens,P,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,GB,IE,SA,,1,live,Number of specimens,P,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,GB,QA,PH,,1,live,Number of specimens,T,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,HR,UA,,1,,live,Number of specimens,P,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,IE,US,,1,,live,Number of specimens,P,F
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,MT,GB,,1,,live,,P,U
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,NL,CA,,1,,live,,P,F
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,NL,ZA,,2,,live,,P,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,NL,ZA,,1,,live,,P,U
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,PL,UA,,1,,live,Number of specimens,P,C
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,PL,US,SK,1,,live,Number of specimens,P,F
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,PT,MZ,,,2,live,Number of specimens,P,D
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,RO,GB,XX,1,,live,Number of specimens,P,U
+2024,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,SK,UA,,1,,live,,P,C
+2024,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,FI,AE,,2,,live,Number of specimens,P,C
+2024,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,GB,CZ,,,270,live,,T,C
+2024,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,GB,CZ,,,390,live,,T,C
+2024,II,Agapornis personatus,Aves,Psittaciformes,Psittacidae,Agapornis,HR,UA,,1,,live,Number of specimens,P,C
+2024,II,Agapornis taranta,Aves,Psittaciformes,Psittacidae,Agapornis,DE,ZA,,1,,bodies,Number of specimens,T,C
+2024,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,CY,GB,XX,1,,live,Number of specimens,P,U
+2024,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,DE,PH,,3,,live,Number of specimens,T,C
+2024,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,DE,ZA,,1,,bodies,Number of specimens,T,C
+2024,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,GB,CZ,,,64,live,,T,C
+2024,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,GB,MT,,,1,live,,P,C
+2024,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,GR,US,XX,1,,live,,P,O
+2024,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,IE,ZA,,2,,live,Number of specimens,P,C
+2024,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,SE,QA,ZA,,1,live,Number of specimens,P,C
+2024,II,Amazona albifrons,Aves,Psittaciformes,Psittacidae,Amazona,DE,GT,,54,,specimens,Number of specimens,S,I
+2024,II,Amazona amazonica,Aves,Psittaciformes,Psittacidae,Amazona,GB,CZ,,,42,live,,T,C
+2024,II,Amazona autumnalis,Aves,Psittaciformes,Psittacidae,Amazona,DE,GT,,106,,specimens,Number of specimens,S,I
+2024,II,Amazona autumnalis,Aves,Psittaciformes,Psittacidae,Amazona,DE,PH,,2,,live,Number of specimens,T,C
+2024,II,Amazona autumnalis,Aves,Psittaciformes,Psittacidae,Amazona,GB,CZ,,,43,live,,T,C
+2024,II,Amazona autumnalis,Aves,Psittaciformes,Psittacidae,Amazona,GB,DE,,,2,live,Number of specimens,B,C
+2024,II,Amazona farinosa,Aves,Psittaciformes,Psittacidae,Amazona,AT,GB,BR,1,,live,Number of specimens,P,C
+2024,II,Amazona farinosa,Aves,Psittaciformes,Psittacidae,Amazona,DE,GT,,25,,specimens,Number of specimens,S,I
+2024,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,DE,US,PA,1,,live,Number of specimens,P,W
+2024,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,GB,CZ,,,5,live,,T,C
+2024,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,GB,HU,,,1,live,,P,F
+2024,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,GB,IE,GB,,1,live,Number of specimens,P,U
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,AT,US,,3,,live,Number of specimens,T,F
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,DE,AE,NL,1,,live,Number of specimens,P,C
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,DE,BR,,1,,live,Number of specimens,P,C
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,DE,CH,DE,1,,live,Number of specimens,P,C
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,DE,CH,,1,,live,Number of specimens,P,C
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,DE,GT,,2,,specimens,Number of specimens,S,I
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,DE,US,,2,,live,Number of specimens,T,F
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,DE,ZA,,1,,bodies,Number of specimens,T,C
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,GB,CZ,,,3,live,,T,C
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,GB,IE,GB,,1,live,Number of specimens,P,F
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,GR,QA,ZA,,1,live,Number of specimens,P,C
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,IE,GB,,1,,live,Number of specimens,P,U
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,LV,AE,ZA,1,,live,,P,C
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,NL,ZA,,1,,live,,P,C
+2024,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,SE,IQ,,,1,live,,P,C
+2024,II,Aratinga finschi,Aves,Psittaciformes,Psittacidae,Aratinga,DE,GT,,8,,specimens,Number of specimens,S,I
+2024,II,Aratinga jandaya,Aves,Psittaciformes,Psittacidae,Aratinga,DE,AE,US,1,,live,Number of specimens,P,C
+2024,II,Aratinga jandaya,Aves,Psittaciformes,Psittacidae,Aratinga,GB,CZ,,,45,live,,T,C
+2024,II,Aratinga solstitialis,Aves,Psittaciformes,Psittacidae,Aratinga,DE,AE,US,1,,live,Number of specimens,P,F
+2024,II,Aratinga solstitialis,Aves,Psittaciformes,Psittacidae,Aratinga,DE,CH,,5,,live,Number of specimens,Z,C
+2024,II,Aratinga solstitialis,Aves,Psittaciformes,Psittacidae,Aratinga,GB,CZ,,,21,live,,T,C
+2024,II,Aratinga weddellii,Aves,Psittaciformes,Psittacidae,Aratinga,HU,CA,,1,,live,,P,F
+2024,II,Barnardius zonarius,Aves,Psittaciformes,Psittacidae,Barnardius,DE,ZA,,1,,bodies,Number of specimens,T,C
+2024,II,Bolborhynchus lineola,Aves,Psittaciformes,Psittacidae,Bolborhynchus,GB,CZ,,,2,live,,T,C
+2024,II,Cyanoliseus patagonus,Aves,Psittaciformes,Psittacidae,Cyanoliseus,DE,CH,,12,,live,Number of specimens,Z,C
+2024,II,Cyanoliseus patagonus,Aves,Psittaciformes,Psittacidae,Cyanoliseus,GB,CZ,,,18,live,,T,C
+2024,II,Cyanoramphus auriceps,Aves,Psittaciformes,Psittacidae,Cyanoramphus,GB,CZ,,,655,live,,T,C
+2024,II,Deroptyus accipitrinus,Aves,Psittaciformes,Psittacidae,Deroptyus,DE,PH,,6,,live,Number of specimens,T,C
+2024,II,Eclectus roratus,Aves,Psittaciformes,Psittacidae,Eclectus,CZ,ID,,2,,live,,P,C
+2024,II,Eclectus roratus,Aves,Psittaciformes,Psittacidae,Eclectus,DE,PH,,17,,live,Number of specimens,T,C
+2024,II,Eclectus roratus,Aves,Psittaciformes,Psittacidae,Eclectus,NL,ZA,,1,,live,,P,C
+2024,II,Eclectus roratus,Aves,Psittaciformes,Psittacidae,Eclectus,RO,US,,1,,live,Number of specimens,P,F
+2024,II,Eupsittula canicularis,Aves,Psittaciformes,Psittacidae,Eupsittula,DE,GT,,2,,specimens,Number of specimens,S,I
+2024,II,Eupsittula nana,Aves,Psittaciformes,Psittacidae,Eupsittula,DE,GT,,3,,specimens,Number of specimens,S,I
+2024,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,DE,US,,1,,live,Number of specimens,P,C
+2024,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,GB,CZ,,,120,live,,T,C
+2024,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,HU,IL,,1,,live,,P,F
+2024,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,DE,UA,,1,,live,Number of specimens,P,C
+2024,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,DE,US,,1,,live,Number of specimens,P,F
+2024,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,DK,AR,,1,,live,Number of specimens,P,W
+2024,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,GB,CZ,,,350,live,,T,C
+2024,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,IE,IS,,1,,live,Number of specimens,T,
+2024,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,PL,GB,,1,,live,Number of specimens,P,C
+2024,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,PL,UA,PL,1,,live,Number of specimens,P,F
+2024,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,PL,UA,XX,1,,live,Number of specimens,P,U
+2024,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,SE,US,,2,,live,,P,F
+2024,II,Neophema elegans,Aves,Psittaciformes,Psittacidae,Neophema,DE,ZA,,1,,bodies,Number of specimens,T,C
+2024,II,Nestor meridionalis,Aves,Psittaciformes,Psittacidae,Nestor,NL,GB,XX,1,,bodies,,T,O
+2024,II,Nestor notabilis,Aves,Psittaciformes,Psittacidae,Nestor,DE,ZA,,1,,bodies,Number of specimens,T,C
+2024,II,Nestor notabilis,Aves,Psittaciformes,Psittacidae,Nestor,SE,CH,,4,,live,,Z,C
+2024,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,AT,ZA,,4,,live,Number of specimens,P,C
+2024,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,FR,MA,SN,,2,live,,P,C
+2024,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,GB,CZ,,,13,live,,T,C
+2024,II,Pionites leucogaster,Aves,Psittaciformes,Psittacidae,Pionites,GR,IL,,1,,live,,P,F
+2024,II,Pionites melanocephalus,Aves,Psittaciformes,Psittacidae,Pionites,DE,RU,,1,,live,Number of specimens,P,F
+2024,II,Pionites melanocephalus,Aves,Psittaciformes,Psittacidae,Pionites,DE,ZA,,1,,bodies,Number of specimens,T,C
+2024,II,Pionites melanocephalus,Aves,Psittaciformes,Psittacidae,Pionites,GB,CZ,,,15,live,,T,C
+2024,II,Pionites melanocephalus,Aves,Psittaciformes,Psittacidae,Pionites,RO,US,,1,,live,Number of specimens,P,F
+2024,II,Pionus fuscus,Aves,Psittaciformes,Psittacidae,Pionus,GB,CZ,,,6,live,,T,C
+2024,II,Pionus menstruus,Aves,Psittaciformes,Psittacidae,Pionus,GB,CZ,,,6,live,,T,C
+2024,II,Pionus senilis,Aves,Psittaciformes,Psittacidae,Pionus,DE,GT,,13,,specimens,Number of specimens,S,I
+2024,II,Platycercus elegans,Aves,Psittaciformes,Psittacidae,Platycercus,DE,ZA,,1,,bodies,Number of specimens,T,C
+2024,II,Platycercus elegans,Aves,Psittaciformes,Psittacidae,Platycercus,GB,CZ,,,149,live,,T,C
+2024,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,GB,CZ,,,313,live,,T,C
+2024,II,Poicephalus gulielmi,Aves,Psittaciformes,Psittacidae,Poicephalus,CZ,ZA,,3,,live,,P,C
+2024,II,Poicephalus gulielmi,Aves,Psittaciformes,Psittacidae,Poicephalus,DE,ZA,,1,,bodies,Number of specimens,T,C
+2024,II,Poicephalus meyeri,Aves,Psittaciformes,Psittacidae,Poicephalus,DE,US,,1,,live,Number of specimens,P,F
+2024,II,Poicephalus robustus,Aves,Psittaciformes,Psittacidae,Poicephalus,CZ,ZA,,4,,live,,P,C
+2024,II,Poicephalus senegalus,Aves,Psittaciformes,Psittacidae,Poicephalus,DE,ZA,,1,,bodies,Number of specimens,T,C
+2024,II,Polytelis anthopeplus,Aves,Psittaciformes,Psittacidae,Polytelis,GB,CZ,,,35,live,,T,C
+2024,II,Polytelis swainsonii,Aves,Psittaciformes,Psittacidae,Polytelis,GB,CZ,,,42,live,,T,C
+2024,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,GB,CZ,,,207,live,,T,C
+2024,II,Psittacula alexandri,Aves,Psittaciformes,Psittacidae,Psittacula,CZ,TH,,5,,live,,P,C
+2024,II,Psittacula alexandri,Aves,Psittaciformes,Psittacidae,Psittacula,CZ,ZA,,5,,live,,P,C
+2024,II,Psittacula alexandri,Aves,Psittaciformes,Psittacidae,Psittacula,GB,CZ,,,30,live,,T,C
+2024,II,Psittacula alexandri,Aves,Psittaciformes,Psittacidae,Psittacula,SK,TH,,9,,live,,P,C
+2024,II,Psittacula cyanocephala,Aves,Psittaciformes,Psittacidae,Psittacula,GB,CZ,,,8,live,,T,C
+2024,II,Psittacula cyanocephala,Aves,Psittaciformes,Psittacidae,Psittacula,NL,ZA,,5,,live,,T,C
+2024,II,Psittacula derbiana,Aves,Psittaciformes,Psittacidae,Psittacula,CY,JO,XX,,1,live,Number of specimens,P,
+2024,II,Psittacula derbiana,Aves,Psittaciformes,Psittacidae,Psittacula,GB,CZ,,,141,live,,T,C
+2024,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,DE,ZA,,5,,live,Number of specimens,T,C
+2024,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,GB,CZ,,,166,live,,T,C
+2024,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,NL,ZA,,1,,live,,P,C
+2024,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,SK,TH,,1,,live,,P,C
+2024,II,Psittacula longicauda,Aves,Psittaciformes,Psittacidae,Psittacula,CZ,ID,,1,,live,,P,C
+2024,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,CY,IL,,1,,live,Number of specimens,P,F
+2024,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,DE,AE,US,3,,live,Number of specimens,P,F
+2024,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,DE,GB,,1,,live,Number of specimens,P,C
+2024,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,GB,CZ,,,107,live,,T,C
+2024,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,PL,GB,,1,,live,Number of specimens,P,C
+2024,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,PL,UA,,2,,live,Number of specimens,P,C
+2024,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,SE,US,,1,,live,,P,F
+2024,II,Pyrrhura molinae,Aves,Psittaciformes,Psittacidae,Pyrrhura,SI,US,,1,,live,Number of specimens,P,C
+2024,II,Tanygnathus lucionensis,Aves,Psittaciformes,Psittacidae,Tanygnathus,DE,PH,,4,,live,Number of specimens,T,C
+2024,II,Tanygnathus megalorynchos,Aves,Psittaciformes,Psittacidae,Tanygnathus,CZ,ZA,,2,,live,,P,C
+2024,II,Tanygnathus megalorynchos,Aves,Psittaciformes,Psittacidae,Tanygnathus,DE,ZA,,1,,bodies,Number of specimens,T,C
+2024,II,Tanygnathus sumatranus,Aves,Psittaciformes,Psittacidae,Tanygnathus,DE,PH,,1,,live,Number of specimens,T,C
